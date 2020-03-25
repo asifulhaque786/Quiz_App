@@ -1,2 +1,2 @@
-# flutter_miniprojects
-list of some basic flutter apps
+# quiz app
+a basic quiz app using flutter on corona virus....
